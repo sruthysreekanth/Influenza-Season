@@ -13,6 +13,7 @@ Plans for the Upcoming Influenza season will be made as part of the project.Anal
 * Excel
 * Tableau
 
+View the [project visualizations](https://public.tableau.com/app/profile/sruthy.sreekanth/viz/PreparingForInfluenzaSeason-2018/PreparingForInfluenzaseason) in Tableau & [Video Presentation](https://vimeo.com/807212839/688add0e95)
 
 
 
