@@ -1,5 +1,5 @@
 # Influenza-Season
-Plans for the Upcoming Influenza season will be made as part of the project.Analysis conducted by Excel & Tableau.
+Plans for the Upcoming Influenza season will be made as part of the project.Analysis conducted in Excel & Tableau.
 
 # Objective
 * Assist medical staffing agency in planning for influenza season. Examine trends in influenza and how they can be used to plan for staffing needs across the country
